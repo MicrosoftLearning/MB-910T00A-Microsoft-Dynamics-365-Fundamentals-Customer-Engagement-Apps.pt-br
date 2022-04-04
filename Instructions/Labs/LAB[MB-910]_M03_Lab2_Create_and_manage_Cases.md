@@ -1,19 +1,19 @@
 ---
 lab:
-    title: 'Laboratório 3.2: Criar e gerenciar casos no Dynamics 365 for Customer Service'
-    module: 'Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service'
+  title: 'Laboratório 3.2: Criar e gerenciar ocorrências no Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
 ---
 
-Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Módulo 3: conheça os conceitos básicos do Dynamics 365 Customer Service
 ========================
 
-## Laboratório prático 3.2 - Criar e gerenciar casos no Dynamics 365 for Customer Service
+## <a name="practice-lab-32---create-and-manage-cases-in-dynamics-365-customer-service"></a>Laboratório prático 3.2 - Criar e gerenciar casos no Dynamics 365 for Customer Service
 
-## Configuração do laboratório
+## <a name="lab-setup"></a>Configuração do Laboratório
 
   - **Tempo estimado**: 10 minutos
 
-## Instruções
+## <a name="instructions"></a>Instruções
 
 1. Se ainda não estiver aberto, abra o aplicativo **Dynamics 365 for Customer Service Hub**. 
 
@@ -23,11 +23,11 @@ Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service
 
 4. Preencha o novo registro de caso como se segue:
 
-	- **Título do caso:** Item chegou danificado - Suas iniciais
+    - **Título da ocorrência:** Item chegou danificado - Suas iniciais
 
-	- **Cliente:** Alpine Ski House
+    - **Cliente:** Alpine Ski House
 
-	- **Origem:** Telefone
+    - **Origem:** Telefone
 
 5. Selecione o botão **Salvar** para salvar o registro e deixe-o aberto. 
 
@@ -41,7 +41,7 @@ Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service
 
 10. Defina o campo **Assunto** como **Retornar chamada para Patrick - suas iniciais** e deixe o restante dos campos como estão. 
 
-11. Selecione o botão **Salvar e Fechar (Save and Close)**. 
+11. Selecione o botão **Salvar e Fechar (Save and Close)** . 
 
 12. Em **Telefone para Processo do caso**, selecione o estágio **Identificar**.
 

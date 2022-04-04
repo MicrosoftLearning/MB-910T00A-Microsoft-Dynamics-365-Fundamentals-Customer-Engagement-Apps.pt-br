@@ -1,31 +1,31 @@
 ---
 lab:
-    title: 'Laboratório 3.3: Laboratório Capstone do Dynamics 365 for Customer Service'
-    module: 'Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service'
+  title: 'Laboratório 3.3: Laboratório Capstone do Dynamics 365 for Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
 ---
 
-Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Módulo 3: conheça os conceitos básicos do Dynamics 365 Customer Service
 ========================
 
-## Laboratório de prática 3.3 - Laboratório Capstone do Dynamics 365 for Customer Service
+## <a name="practice-lab-33---dynamics-365-customer-service-capstone-lab"></a>Laboratório de prática 3.3 - Laboratório Capstone do Dynamics 365 for Customer Service
 
-## Cenário do laboratório
+## <a name="lab-scenario"></a>Cenário do laboratório
 
-A empresa ABC é especializada na fabricação, venda, instalação e manutenção de equipamentos de segurança. Seus produtos incluem câmeras de segurança internas e externas, sensores de umidade e incêndio, serviços de monitoramento e muito mais. 
+A empresa ABC é especializada na fabricação, comercialização, instalação e manutenção de equipamentos de segurança. Os produtos da empresa incluem câmeras de segurança internas e externas, sensores de umidade e incêndio, serviços de monitoramento e muito mais. 
 
 A empresa ABC usa os aplicativos do Dynamics 365 para interagir com todos os clientes em diferentes áreas da organização, das vendas aos serviços. 
 
-**Vendas e marketing**
+**Vendas e Marketing**
 
-A empresa ABC comercializa para seus clientes residenciais diretamente por meio de campanhas de marketing direcionadas. Os clientes são segmentados de acordo com suas cidades e outros fatores. Os materiais de marketing são enviados por email e, com base na interação com o email, são orientados de maneira adequada. 
+A empresa ABC comercializa para seus clientes residenciais diretamente por meio de campanhas de marketing direcionadas. Os clientes são segmentados de acordo com suas cidades e outros fatores. Os materiais de marketing são enviados por email e são baseados na interação com o email direcionado correspondente. 
 
-Embora alguns dos produtos menores sejam vendidos por meio de varejistas, a maioria dos produtos é vendida diretamente aos consumidores pela equipe interna de vendas.
+Embora alguns de seus produtos menores sejam vendidos por varejistas, a maioria é vendida diretamente para os consumidores por meio da equipe interna de vendas.
 
 Internamente, eles se concentram em duas áreas principais: 
 
-- **Clientes residenciais:** Os clientes residenciais geralmente procuram componentes individuais ou uma solução para a casa inteira. Esses ciclos de vendas são normalmente mais curtos e se originam de mídias sociais, sites, referências ou contato direto com o cliente potencial. Como os clientes residenciais geralmente estão mais focados em produtos específicos ou instalações menores, os ciclos de vendas normalmente duram alguns dias ou semanas. 
+- **Clientes residenciais:** Os clientes residenciais geralmente procuram componentes individuais ou uma solução para a casa inteira. Esses ciclos de vendas costumam ser mais curtos e se originam de mídias sociais, sites, referências ou contato direto com o cliente potencial. Como, no geral, os clientes residenciais estão mais focados em produtos específicos ou instalações menores, os ciclos de vendas normalmente duram alguns dias ou semanas. 
 
-- **Clientes empresariais:** Os vendedores empresariais se concentram nos clientes que precisam de soluções de negócios mais especializadas e sob medida. As vendas corporativas geralmente se estendem por várias localizações com comunicação vinculada e, muitas vezes, requerem vários recursos para concluir o projeto. Esses ciclos de vendas são geralmente mais longos e têm muito mais peças móveis. 
+- **Clientes empresariais:** Os vendedores empresariais se concentram nos clientes que precisam de soluções de negócios mais especializadas e sob medida. As vendas corporativas geralmente se estendem por várias localizações com comunicação vinculada e, muitas vezes, requerem vários recursos para concluir o projeto. Esses ciclos de vendas costumam ser mais longos e têm muito mais peças móveis. 
 
 É importante que todos os vendedores da empresa ABC tenham as ferramentas, os recursos e a orientação necessários, seja qual for a área de foco ao vender para os clientes. 
 
@@ -35,19 +35,19 @@ O processo de instalação do equipamento de segurança adquirido varia de acord
 
 - **Clientes residenciais:** Como as instalações residenciais geralmente levam menos de um dia, elas são feitas por funcionários internos. Após a efetivação da venda, uma ordem de serviço é criada e um técnico qualificado é identificado e agendado para realizar a instalação. 
 
-- **Clientes empresariais:** As implantações corporativas podem levar meses e exigem um gerente de projeto para supervisionar as operações do dia a dia. Isso inclui a criação de planos de projeto, a definição de equipes de projeto e o agendamento de recursos. 
+- **Clientes empresariais:** As implantações corporativas podem levar meses e exigem um gerente de projeto para supervisionar as operações do dia adia. Isso inclui a criação de planos de projeto, a definição de equipes de projeto e o agendamento de recursos. 
 
 **Serviço e suporte:**
 
-Assim que os sistemas são instalados, a empresa ABC fornece suporte pós-venda. Se um cliente tiver um problema, ele pode entrar em contato com o suporte ao cliente. Um agente tentará trabalhar com o cliente remotamente para resolver o problema. Se o problema não puder ser resolvido remotamente, o agente de suporte pode escalar o problema para uma ordem de serviço que será agendada e trabalhada por um técnico de campo qualificado. 
+Assim que os sistemas são instalados, a empresa ABC fornece suporte pós-venda. Se um cliente tiver um problema, ele pode entrar em contato com o suporte ao cliente. Um agente tentará trabalhar com o cliente remotamente para resolver o problema. Se o problema não puder ser resolvido remotamente, o agente de suporte pode escalonar o problema para uma ordem de serviço que será agendada e realizada por um técnico de campo qualificado. 
 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Muitas vezes, os clientes podem encontrar problemas com seus equipamentos. Quando forem encontrados problemas, eles são informados ao help desk da empresa ABC. Os problemas podem ser informados de várias maneiras. Em alguns casos, o equipamento pode informar problemas de modo proativo. À medida que os problemas são informados, os agentes tentam resolvê-los remotamente. Se isso não funcionar, um técnico de campo será enviado para resolver o problema. Você tem corrigido muitos sensores que pararam de funcionar recentemente. Você percebeu que isso se deve a um bug de software. Você deseja criar um artigo de conhecimento que outros agentes possam usar como referência quando encontrarem o mesmo problema. 
 
 Como agente de help desk, você é responsável por trabalhar em problemas informados por clientes. Você recentemente atendeu um telefonema de Piper Smith. Piper está informando que um dos sensores em seu sistema não está funcionando. Você precisa registrar a chamada e tentar localizar uma resolução para o problema. 
 
-Após concluir o laboratório, você terá:
+Após a conclusão do laboratório, teremos concluído o seguinte:
 
 - Criado um artigo de conhecimento 
 
@@ -57,15 +57,15 @@ Após concluir o laboratório, você terá:
 
 - Gerenciar um registro de caso ao longo do ciclo de vida. 
 
-## Configuração do laboratório
+## <a name="lab-setup"></a>Configuração do Laboratório
 
   - **Tempo estimado**: 45 minutos
 
-## Instruções
+## <a name="instructions"></a>Instruções
 
-## Exercício 1: Criar e publicar um artigo de conhecimento
+## <a name="exercise-1-create-and-publish-a-knowledge-article"></a>Exercício 1: Criar e publicar um artigo de conhecimento
 
-### Tarefa 1: Criar um artigo de conhecimento
+### <a name="task-1-create-a-knowledge-article"></a>Tarefa 1: Criar um artigo de conhecimento
 
 1. Se ainda não estiver aberto, abra o aplicativo **Dynamics 365 for Customer Service Hub**. 
 
@@ -83,29 +83,29 @@ Após concluir o laboratório, você terá:
 
 8. Conclua o artigo como se segue:
 
-	- **Título:** O sensor não está funcionando - Suas iniciais
+    - **Título:** O sensor não está funcionando - Suas iniciais
 
-	- **Palavras-chave:** Sensor, danificado, não funcionando
+    - **Palavras-chave:** Sensor, danificado, não funcionando
 
-	- **Descrição:** Ajuda a trabalhar em cenários onde um sensor não está funcionando. 
+    - **Descrição:** Ajuda a trabalhar em cenários onde um sensor não está funcionando. 
 
 9. Insira o seguinte texto na caixa **Designer de Conteúdo**.   
 
-	O sensor não está funcionando atualmente
+    O sensor não está funcionando atualmente
 
-	Quando o sensor não está funcionando como deveria, faça o seguinte:
+    Quando o sensor não está funcionando como deveria, faça o seguinte:
 
-	1. Localize e substitua as baterias no dispositivo. 
+    1. Localize e substitua as baterias no dispositivo. 
 
-	2. Pressione e mantenha pressionado o botão liga/desliga por 3 segundos. 
+    2. Pressione e mantenha pressionado o botão liga/desliga por 3 segundos. 
 
-	3. O dispositivo abrirá em modo de administrador. 
+    3. O dispositivo abrirá em modo de administrador. 
 
-	4. Pressione e mantenha pressionado o botão do par até que a luz mude de vermelha para azul. 
+    4. Pressione e mantenha pressionado o botão do par até que a luz mude de vermelha para azul. 
 
-	5. Pressione o botão de redefinição. 
+    5. Pressione o botão de redefinição. 
 
-	Assim que o dispositivo reiniciar, ele estará on-line novamente. 
+    Assim que o dispositivo reiniciar, ele estará on-line novamente. 
 
 10. No editor de contexto, selecione o texto “O sensor não está funcionando atualmente”
 
@@ -123,7 +123,7 @@ Após concluir o laboratório, você terá:
 
  
 
-### Tarefa 2: Gerenciar um artigo ao longo do processo de aprovação
+### <a name="task-2-manage-an-article-through-the-approval-process"></a>Tarefa 2: Gerenciar um artigo ao longo do processo de aprovação
 
 Na maioria das organizações, depois que o autor do artigo cria o registro, ele passa por um processo de aprovação antes que fique disponível. Na maior parte do tempo isso é feito por um indivíduo diferente. Neste exemplo, agiremos como um aprovador. 
 
@@ -155,7 +155,7 @@ Na maioria das organizações, depois que o autor do artigo cria o registro, ele
 
 14. Insira o texto “Pressionar botão de confirmar.” 
 
-15. Na **Barra de comando**, selecione o botão **Salvar e Fechar**.
+15. Na **Barra de Comando**, selecione o botão **Salvar e Fechar**.
 
 16. Use o **Seletor de exibição** e alterne a exibição para **Artigos propostos**.
 
@@ -168,7 +168,7 @@ Na maioria das organizações, depois que o autor do artigo cria o registro, ele
 20. Você será solicitado a confirmar a aprovação do artigo; selecione **OK**. 
 
 
-### Tarefa 3: Aprovar o artigo de conhecimento
+### <a name="task-3-approve-the-knowledge-article"></a>Tarefa 3: Aprovar o artigo de conhecimento
 
 Agora que o artigo foi aprovado, vamos publicá-lo para que ele fique disponível para pessoas trabalhando em casos. 
 
@@ -184,23 +184,23 @@ Agora que o artigo foi aprovado, vamos publicá-lo para que ele fique disponíve
 
 6. Confirme os itens a seguir:
 
-	- **Publicar:** Agora
+    - **Publicar:** Agora
 
-	- **Status de publicação:** Publicado
+    - **Status de publicação:** Publicado
 
-	- **Data de validade:** Um ano a partir de hoje às 0:00
+    - **Data de validade:** Um ano a partir de hoje às 0:00
 
-	- **Estado da validade:** Expirado
+    - **Estado da validade:** Expirado
 
-	- **Status da validade:** Expirado
+    - **Status da validade:** Expirado
 
 7. Selecione o botão **Publicar** para publicar o artigo.
 
 
-## Exercício 2: Gerenciar um caso de suporte ao longo do ciclo de vida
+## <a name="exercise-2-manage-a-support-case-through-its-lifecycle"></a>Exercício 2: Gerenciar um caso de suporte ao longo do ciclo de vida
 
 
-### Tarefa 1: Criar e gerenciar um caso
+### <a name="task-1-create-and-manage-a-case"></a>Tarefa 1: Criar e gerenciar um caso
 
 1. Se ainda não estiver aberto, abra o aplicativo **Dynamics 365 for Customer Service Hub**. 
 
@@ -223,13 +223,13 @@ Agora que você está familiarizado com algumas das diferentes visualizações e
 
 12. Preencha o novo registro de caso como se segue:
 
-	- **Título do caso:** O sensor não está funcionando - Suas iniciais
+    - **Título da Ocorrência:** O sensor não está funcionando - Suas iniciais
 
-	- **Cliente:** Piper Smith
+    - **Cliente:** Piper Smith
 
-	- **Origem:** Telefone
+    - **Origin:** Telefone
 
-	- **Descrição:** Piper está informando que um dos sensores que ela recebeu não está funcionando adequadamente. 
+    - **Descrição:** Piper está informando que um dos sensores que ela recebeu não está funcionando adequadamente. 
 
 13. Selecione o botão **Salvar** para salvar o registro e deixe-o aberto. 
 
@@ -237,17 +237,17 @@ Agora que você está familiarizado com algumas das diferentes visualizações e
 
 15. No menu exibido, selecione **Telefonema**.
 
-16. No formulário **Criação rápida: Chamada telefônica**, complete a atividade como se segue:
+16. No formulário **Criação Rápida: Chamada telefônica**, complete a atividade como se segue:
 
-	- **Assunto:** Retornar chamada para Piper
+    - **Assunto:** Retornar chamada para Piper
 
-	- **Direção:** Saída
+    - **Direção:** saída
 
-	- **Número de telefone:**  888 555-1762
+    - **Número de telefone:**  888 555-1762
 
-	- **Duração:** 15 minutos.
+    - **Duração:** 15 minutos.
 
-17. Selecione o botão **Salvar e Fechar**. 
+17. Selecione o botão **Salvar e Fechar (Save and Close)** . 
 
 18. Em **Telefone para Processo do caso**, selecione o estágio **Identificar**.
 
@@ -257,17 +257,17 @@ Agora que você está familiarizado com algumas das diferentes visualizações e
 
 21. Usando a **Linha do tempo do registro**, selecione o **Ícone de sinal de mais** para criar uma atividade. 
 
-22. No menu exibido, selecione **Tarefa**.
+22. No menu exibido, clique em **Tarefa (Task)** .
 
-23. No formulário **Criação rápida: Chamada telefônica**, complete a atividade como se segue:
+23. No formulário **Criação Rápida: Chamada telefônica**, complete a atividade como se segue:
 
-	- **Assunto:** Pesquisar o problema da Piper
+    - **Assunto:** Pesquisar o problema da Piper
 
-	- **Descrição:** Aproveitar a base de conhecimentos para pesquisar o problema da Piper. 
+    - **Descrição:** Aproveitar a base de conhecimentos para pesquisar o problema da Piper. 
 
-	- **Duração:** 30 minutos.
+    - **Duração:** 30 minutos.
 
-24. Selecione o botão **Salvar e Fechar**. 
+24. Selecione o botão **Salvar e Fechar (Save and Close)** . 
 
 25. No lado direito da tela de caso, localize e selecione o ícone de livro **Conhecimento**. (Ele estará diretamente abaixo do ícone de chave inglesa).
 
@@ -279,15 +279,15 @@ Agora que você está familiarizado com algumas das diferentes visualizações e
 
  
 
-### Tarefa 2: Fechar o caso
+### <a name="task-2-close-the-case"></a>Tarefa 2: Fechar o caso
 
 Agora que identificamos uma resolução para o problema da cliente, vamos nos preparar para resolver o caso. A primeira etapa para fechar o caso é encerrar quaisquer atividades abertas que foram associadas a ele. 
 
-1. Na **Linha do tempo** do registro, passe o mouse sobre a **tarefa Pesquisar o problema da Piper** que você criou anteriormente**.** Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
+1. Na **Linha do tempo** do registro, passe o mouse sobre a **tarefa Pesquisar o problema da Piper** que você criou anteriormente **.** Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
 
 2. Na tela **Fechar tarefa**, verifique se o status está Concluído e selecione o botão **Fechar**. O status da tarefa deve dizer **Fechada**. 
 
-3. Passe o mouse sobre a **Chamada telefônica - Retornar chamada para Piper** que você criou anteriormente**.** Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
+3. Passe o mouse sobre a **Chamada telefônica — Retornar chamada para Piper** que você criou anteriormente **.** Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
 
 4. Na tela **Fechar chamada telefônica**, verifique se o **Estado** está **Concluído** e se o **Status** está **Feito**. Selecione o botão **Fechar**. Verifique se a atividade aparece como fechada na Linha do tempo. 
 
