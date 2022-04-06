@@ -2,8 +2,13 @@
 lab:
   title: 'Laboratório 3.1: Criar e publicar um artigo de conhecimento no Dynamics 365 Customer Service'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908794"
 ---
-
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Módulo 3: conheça os conceitos básicos do Dynamics 365 Customer Service
 ========================
 
@@ -21,9 +26,9 @@ lab:
 
 3. Para ver facilmente quais artigos estão em diferentes estágios, selecione a seta suspensa ao lado de **Meus artigos ativos**. 
 
-4. Selecione **Artigos de rascunho**. Provavelmente você verá dois artigos no modo de rascunho.
+4. Selecione a exibição **Artigos de rascunho**. 
 
-5. Selecione **Artigos aprovados**. Você deve ver pelo menos um artigo aprovado.  
+5. Selecione **Artigos aprovados**. 
 
 6. Volte para **Meus artigos ativos**
 
@@ -55,9 +60,9 @@ lab:
 
     5. Selecionar Imprimir
 
-    Assim que recebermos o item devolvido/danificado, sua conta receberá o estorno da quantia.
+Assim que recebermos o item devolvido/danificado, sua conta receberá o estorno da quantia.
 
-    **OBSERVAÇÃO:** Você pode adicionar formatação ao texto, se desejar. 
+**OBSERVAÇÃO:** Você pode adicionar formatação ao texto, se desejar. 
 
 10. Na **Barra de comando**, selecione o botão **Salvar** para salvar o artigo de conhecimento e deixá-lo aberto. 
 
@@ -110,7 +115,5 @@ Depois que o autor cria inicialmente o registro, ele geralmente passa por um pro
     - **Status da validade:** Expirado
 
     - **Traduções da publicação da aprovação:** Não
-    
-29. Clique no botão **Publicar** para publicar o artigo.
 
 
