@@ -2,8 +2,13 @@
 lab:
   title: 'Laboratório 4.3: Laboratório Capstone do Dynamics 365 Field Service'
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
+ms.openlocfilehash: 6bddf66b1b4e4c11941e5b1f4b3c64e0ff5cbf8c
+ms.sourcegitcommit: 72aae532f6c367bd6e48570b827f7289171f2b31
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "141605544"
 ---
-
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Módulo 4: conheça os conceitos básicos do Dynamics 365 Field Service
 ========================
 
@@ -93,7 +98,7 @@ Recentemente, um cliente corporativo Active Transport, Inc. contatou o suporte s
 
  
 
-### <a name="task-2-manually-create-a-word-order"></a>Tarefa 2: Criar manualmente uma ordem de serviço
+### <a name="task-2-manually-create-a-work-order"></a>Tarefa 2: Criar manualmente uma ordem de serviço
 
 Voltaremos depois ao seu registro de caso criado. A seguir, vamos examinar como criar manualmente um registro de ordem de serviço. 
 
