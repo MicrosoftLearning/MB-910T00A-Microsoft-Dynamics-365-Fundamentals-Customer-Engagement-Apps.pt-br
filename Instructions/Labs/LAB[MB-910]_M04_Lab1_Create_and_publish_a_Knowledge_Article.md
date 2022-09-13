@@ -2,17 +2,17 @@
 lab:
   title: 'Laboratório 4.1: Criar e publicar um artigo de conhecimento no Dynamics 365 Customer Service'
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 076c92c7a9b1843a0e0e4b7a03a725cfc3b1d43b
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.openlocfilehash: 2e2c5b6947bb5b366c0daba9d37518981662b28b
+ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404913"
+ms.lasthandoff: 09/06/2022
+ms.locfileid: "147855079"
 ---
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Módulo 4: Aprender os princípios básicos do Dynamics 365 Customer Service
 ========================
 
-## <a name="practice-lab-41---create-and-publish-a-knowlege-article-in-dynamics-365-customer-service"></a>Laboratório prático 4.1 – Criar e publicar um artigo de conhecimento no Dynamics 365 Customer Service
+## <a name="practice-lab-41---create-and-publish-a-knowledge-article-in-dynamics-365-customer-service"></a>Laboratório prático 4.1 – Criar e publicar um artigo de conhecimento no Atendimento ao Cliente do Dynamics 365
 
 ## <a name="lab-setup"></a>Configuração do Laboratório
 
@@ -36,7 +36,7 @@ ms.locfileid: "144404913"
 
 8. Depois que o novo registro abrir, selecione a seta suspensa ao lado do campo **Razão do status (Status reason)** no cabeçalho do registro, na parte superior. Defina o **Idioma (Language)** para **English - United States**.
 
-8. Conclua o artigo como se segue:
+9. Conclua o artigo como se segue:
 
     - **Título:** Item quebrado na chegada - suas iniciais
 
@@ -44,7 +44,7 @@ ms.locfileid: "144404913"
 
     - **Descrição:** Ajuda a resolver problemas quando um item chega danificado. 
 
-9. Insira o seguinte texto na caixa Designer de Conteúdo.   
+10. Insira o seguinte texto na caixa Designer de Conteúdo.   
 ‎  
 ‎   Item chegou danificado
 
@@ -64,45 +64,45 @@ ms.locfileid: "144404913"
 
     **OBSERVAÇÃO:** Você pode adicionar formatação ao texto, se desejar. 
 
-10. Na **Barra de comando**, selecione o botão **Salvar** para salvar o artigo de conhecimento e deixá-lo aberto. 
+11. Na **Barra de comando**, selecione o botão **Salvar** para salvar o artigo de conhecimento e deixá-lo aberto. 
 
-11. No **Novo processo**, selecione o estágio do **Autor**, defina o campo **Assunto do artigo** para **Entrega** (localizado em Serviço). 
+12. No **Novo processo**, selecione o estágio do **Autor**, defina o campo **Assunto do artigo** para **Entrega** (localizado em Serviço). 
 
-12. Defina o campo **Marcar para revisão** como **Concluído**.
+13. Defina o campo **Marcar para revisão** como **Concluído**.
 
-13. Selecione o botão **Próximo estágio** para avançar ao estágio de **Revisão**.
+14. Selecione o botão **Próximo estágio** para avançar ao estágio de **Revisão**.
 
-14. Na **Barra de comando**, selecione o botão **Salvar e fechar** para salvar suas alterações e fechar o artigo.
+15. Na **Barra de comando**, selecione o botão **Salvar e fechar** para salvar suas alterações e fechar o artigo.
 
 Depois que o autor cria inicialmente o registro, ele geralmente passa por um processo de aprovação antes que fique disponível. Em seguida, agiremos como um aprovador e aprovaremos o artigo. 
 
-15. Nos Artigos de conhecimento, alterne a exibição para **Artigos propostos** para ver quais artigos precisam de aprovação. 
+16. Nos Artigos de conhecimento, alterne a exibição para **Artigos propostos** para ver quais artigos precisam de aprovação. 
 
-16. Abra o artigo **Item quebrado na chegada - suas iniciais** que acabou de criar.
+17. Abra o artigo **Item quebrado na chegada - suas iniciais** que acabou de criar.
 
-17. Em **Novo processo**, selecione o estágio de **Revisão**. Defina o campo **Revisão** como **Aprovado**.
+18. Em **Novo processo**, selecione o estágio de **Revisão**. Defina o campo **Revisão** como **Aprovado**.
 
-18. Você será solicitado a confirmar a aprovação do artigo; selecione **OK**. 
+19. Você será solicitado a confirmar a aprovação do artigo; selecione **OK**. 
 
-19. Selecione o botão **Próximo Estágio** para passar para o estágio **Publicar**. 
+20. Selecione o botão **Próximo Estágio** para passar para o estágio **Publicar**. 
 
-20. Na **Barra de comando** na parte superior do artigo, selecione as **reticências verticais (vertical ellipsis)** à esquerda da barra de comando. No menu exibido, selecione **Produto relacionado**. 
+21. Na **Barra de comando** na parte superior do artigo, selecione as **reticências verticais (vertical ellipsis)** à esquerda da barra de comando. No menu exibido, selecione **Produto relacionado**. 
 
-21. Na janela **Produto relacionado**, selecione **Office 365 for Enterprise (Amostra)** .
+22. Na janela **Produto relacionado**, selecione **Office 365 for Enterprise (Amostra)** .
 
-22. Selecione o botão **Associar**. 
+23. Selecione o botão **Associar**. 
 
-23. Em **Novo processo**, selecione o estágio de **Publicar**. 
+24. Em **Novo processo**, selecione o estágio de **Publicar**. 
 
-24. Marque **Definir associações de produto** como **Concluído**. 
+25. Marque **Definir associações de produto** como **Concluído**. 
 
-25. Defina a **Data de validade** para **um ano a partir de hoje às 0:00**. 
+26. Defina a **Data de validade** para **um ano a partir de hoje às 0:00**. 
 
-26. Selecione o botão **Concluir** para completar o processo. 
+27. Selecione o botão **Concluir** para completar o processo. 
 
-27. Na **Barra de comando** para o artigo, selecione o botão **Publicar**. 
+28. Na **Barra de comando** para o artigo, selecione o botão **Publicar**. 
 
-28. Confirme os itens a seguir:
+29. Confirme os itens a seguir:
 
     - **Publicar:** Agora
 
@@ -116,6 +116,6 @@ Depois que o autor cria inicialmente o registro, ele geralmente passa por um pro
 
     - **Traduções da publicação da aprovação:** Não
     
-29. Clique no botão **Publicar** para publicar o artigo.
+30. Clique no botão **Publicar** para publicar o artigo.
 
 

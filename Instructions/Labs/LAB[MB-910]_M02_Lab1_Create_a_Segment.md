@@ -2,12 +2,12 @@
 lab:
   title: 'Laboratório 2.1: Criar um segmento no Dynamics 365 Marketing'
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 159f9c048a9dd746b9d0c83ee5692a5a648351de
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
+ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404910"
+ms.lasthandoff: 09/06/2022
+ms.locfileid: "147855068"
 ---
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Módulo 2: Aprender os princípios básicos do Dynamics 365 Marketing
 ========================
@@ -41,7 +41,7 @@ Durante este exercício, você verá que é muito fácil criar segmentos de clie
 
 8. Selecione a terceira lista suspensa, que contém **Inserir texto (Enter text)** e digite **Redmond**.
 
-9. Clique para selecionar o campo **Nome** em cima da consulta e digite **Contatos do Remond**.
+9. Clique para selecionar o campo **Nome** em cima da consulta e insira **Contatos do Redmond**.
 
 10. Selecione **Salvar (Save)** na barra de comandos para salvar o segmento.
 
