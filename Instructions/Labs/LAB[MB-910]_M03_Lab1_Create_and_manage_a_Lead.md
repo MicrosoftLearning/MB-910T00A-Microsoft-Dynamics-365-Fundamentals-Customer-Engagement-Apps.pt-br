@@ -2,13 +2,8 @@
 lab:
   title: 'Laboratório 3.1: crie e gerencie um cliente potencial no Dynamics 365 for Sales'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 750ac8f84444e734bacc52adacb1c9b041959c7f
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404919"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>Módulo 3: Aprender os princípios básicos do Dynamics 365 Sales
 ========================
 
@@ -35,15 +30,15 @@ Neste exercício, registre um cliente potencial de Suzanne Burke. Ela entrou em 
 
     - **Tópico:** Procurando Novos Equipamentos - Suas Iniciais
 
-    - **Nome:** Suzanne
+    - **Nome:** Suzanne – Suas iniciais
 
-    - **Sobrenome:** Burke
+    - **Sobrenome:** Bruke – Suas iniciais
 
     - **Cargo:** Diretor Financeiro
 
     - **Telefone comercial:** 888 555-8715
 
-    - **Email:** Suzanne@contososample.com
+    - **Email:** Suzanne.YourInitials@contososample.com
 
     - **Empresa:** Contoso - Washington
 

@@ -2,13 +2,8 @@
 lab:
   title: 'Laboratório 2.2: Criar uma jornada do cliente simples'
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 6c9f21f684590ff84fa77cc19e70555c2e8c00be
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404918"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Módulo 2: Aprender os princípios básicos do Dynamics 365 Marketing
 ========================
 
@@ -30,11 +25,12 @@ Durante este exercício, você verá que as Jornadas do cliente são um componen
 
 1. Se necessário, abra o aplicativo Dynamics 365 Marketing. 
 
-2. Usando a navegação à esquerda, selecione **Email de Marketing (Marketing Emails)** no grupo de Execução de marketing
+2. Por meio da navegação esquerda, altere a Área para **Marketing de saída** e selecione **Emails de marketing** no grupo de execução de marketing.
 
 3. Localize e abra o email de marketing **Introdução ao Chairs (Introduction to Chairs)** .  
 
-4. Na **Barra de comandos**, na parte superior, selecione o botão **Ativar (Go Live)** . 
+4. Se o email **Introdução às cadeiras** já estiver **Ativo**, vá para a próxima etapa. 
+   Caso contrário, na **Barra de comandos** na parte superior, pressione o botão **Ativar**. 
 
 5. Agora que o email está ativo, use a navegação à esquerda para selecionar **Jornadas do Cliente** no grupo de Execução de Marketing.
 
@@ -50,7 +46,7 @@ Durante este exercício, você verá que as Jornadas do cliente são um componen
 
 11. Selecione a guia **Geral** localizada acima do Registro da Jornada do Cliente. Insira as seguintes informações na guia **Geral (General)** :
 
-    - **Nome**: Jornada do cliente de Redmond
+    - **Nome**: Jornada do cliente Redmond ─ Suas iniciais
 
     - **Data e hora inicial (Start date and time)** : Insira a data de hoje
 

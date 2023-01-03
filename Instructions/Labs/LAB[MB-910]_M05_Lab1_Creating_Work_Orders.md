@@ -2,13 +2,8 @@
 lab:
   title: 'Laboratório 5.1: Criação de ordens de serviço no Dynamics 365 Field Service'
   module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: fa0e8af72df342a72267895d9318ce3f625633b5
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404951"
 ---
+
 <a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>Módulo 5: Aprender os princípios básicos do Dynamics 365 Field Service
 ========================
 
@@ -20,7 +15,7 @@ ms.locfileid: "144404951"
 
 ## <a name="instructions"></a>Instruções
 
-1. Na navegação à esquerda, selecione **Ordens de Serviço**.
+1. Se ainda não estiver aberto, abra o aplicativo **Dynamics 365 Field Service**. Selecione **Ordens de serviço** na seção **Agendamento** do menu à esquerda.
 
 2. Na **Barra de Comandos**, selecione o botão **Novo** para criar uma nova ordem de serviço.
 
