@@ -2,13 +2,8 @@
 lab:
   title: 'Laboratório 1.2: Gerenciar clientes e atividades'
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: 886e0800f6747542fcd83ade072fb312ad922de4
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404911"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>Módulo 1: Examinar as funcionalidades principais do Dynamics 365 (CRM)
 ========================
 
@@ -28,7 +23,7 @@ Neste exercício, vamos trabalhar com registros comuns usados por todos os aplic
 
 1. Se ainda não estiver aberto, abra o aplicativo **Hub de Vendas do Dynamics 365**. 
 
-2. Usando a navegação do lado esquerdo da tela, selecione **Contas (Accounts)** . 
+2. Selecione **Contas** na seção **Clientes** do menu à esquerda. 
 
 3. Na Barra de Comandos, na parte superior da tela, selecione o botão **Novo (New)** .
 
@@ -68,9 +63,9 @@ Neste exercício, vamos trabalhar com registros comuns usados por todos os aplic
 
 9. Selecione o botão **Salvar (Save)** para salvar a conta e deixá-la aberta. 
 
-10. Localize a **Subgrade Contatos (Contacts Sub-grid)** à direita da tela. 
+10. Localize a Subgrade Contatos (Contacts Sub-grid) à direita da tela.
 
-11. Selecione as **Reticências verticais (Vertical Ellipsis)** e selecione **Novo Contato (New Contact)** no menu exibido. 
+11. Selecione as **Reticências verticais (Vertical Ellipsis)** e selecione **Novo Contato (New Contact)** no menu exibido.
 
 12. Usando o formulário **Criar Contato Rápido (Quick Create Contact)** , crie o contato da seguinte forma:
 
@@ -90,7 +85,7 @@ Neste exercício, vamos trabalhar com registros comuns usados por todos os aplic
 
 16. No menu exibido, selecione **Compromisso (Appointment)** .
 
-17. Preencha o Compromisso assim:
+17. Preencha o formulário **Criação rápida: compromisso** da seguinte maneira:
 
     - **Assunto:** Reunião com Jackson
 
@@ -98,16 +93,14 @@ Neste exercício, vamos trabalhar com registros comuns usados por todos os aplic
 
     - **Hora de término:** Amanhã às 11h 
 
-18. Selecione o botão **Salvar e Fechar (Save and Close)** . 
+18. Selecione o botão **Salvar e Fechar (Save and Close)** .      
 
-19. No seu teclado, pressione a tecla **F5** para atualizar a tela.     
+19. Na linha do tempo do registro, selecione **Exibir mais** no registro **Compromisso** para revelar mais detalhes.   
 
-20. Na linha do tempo do registro, selecione o **Compromisso** para exibir os detalhes sobre ele.   
+20. Clique no botão **Abrir registro**. 
 
-21. Clique no link **Abrir Compromisso (Open Appointment)** . 
+21. Com o registro do compromisso aberto, na **Barra de Comandos (Command Bar)** , selecione o botão **Marcar como Concluído (Mark Complete)** para finalizar o compromisso. 
 
-22. Com o registro do compromisso aberto, na **Barra de Comandos (Command Bar)** , selecione o botão **Marcar como Concluído (Mark Complete)** para finalizar o compromisso. 
+22. Clique no botão **Salvar e Fechar (Save and Close)** para voltar ao registro da conta.   
 
-23. Clique no botão **Salvar e Fechar (Save and Close)** para voltar ao registro da conta.   
-
-24. Selecione **Salvar e Fechar (Save and Close)** no registro da conta para sair.   
+23. Selecione **Salvar e Fechar (Save and Close)** no registro da conta para sair.   

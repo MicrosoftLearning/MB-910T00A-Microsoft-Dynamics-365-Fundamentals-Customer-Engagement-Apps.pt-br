@@ -2,13 +2,8 @@
 lab:
   title: 'Laboratório 3.2: crie e gerencie uma oportunidade no Dynamics 365 for Sales'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 9ca894a3eeccfdabb5a7fab3a2adc59751f174d8
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404952"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>Módulo 3: Aprender os princípios básicos do Dynamics 365 Sales
 ========================
 
@@ -71,19 +66,19 @@ Neste exercício, você se familiarizará com as maneiras de acessar os diferent
 
 12. Na subgrade Partes Interessadas, observe que Suzanne Burke já está definida como parte interessada. 
 
-13. Na subgrade Equipe de Vendas, selecione a **Elipse Vertical**. No menu exibido, selecione **Nova Conexão**. 
+13. Na subgrade Equipe de Vendas, selecione **Nova Conexão**. Nota: as sub-grades são responsivas e, caso não haja espaço suficiente na tela, é possível encontrar o botão no menu **Reticências verticais**.
 
 14. Pesquise seu registro de usuário e selecione-o. Depois de concluído, selecione o botão **Adicionar**. 
 
-15. Na subgrade Concorrentes, selecione as **Reticências Verticais**. No menu exibido, selecione **Adicionar Concorrente Existente**. 
+15. Na sub-grade “Concorrentes”, selecione **Adicionar concorrente existente**. Nota: as sub-grades são responsivas e, caso não haja espaço suficiente na tela, é possível encontrar o botão no menu **Reticências verticais**.
 
 16. Na tela **Registro de Busca**, selecione **Novo** e depois **Concorrentes**.
 
-17. Na tela **Criar Rápido Concorrente**, defina o campo **Nome** para **Coho Technologies**.
+17. Na tela **Criação rápida de concorrente**, configure o campo **Nome** como **Coho Technologies ─ Suas iniciais**.
 
 18. Selecione o botão **Salvar e Fechar (Save and Close)** .
 
-19. É necessário selecionar **Coho Technologies** na janela de registro de busca. Selecione o botão **Adicionar** para finalizar a inclusão do concorrente. 
+19. É necessário selecionar **Coho Technologies ─ Suas inicias** na janela de registro de pesquisa. Selecione o botão **Adicionar** para finalizar a inclusão do concorrente. 
 
 20. Selecione o estágio **Desenvolver** no fluxo de processo corporativo **Cliente Potencial para Oportunidade** e defina as etapas **Identificar Interessados** e **Identificar Concorrentes** como **Concluído**. 
 

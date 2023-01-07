@@ -2,13 +2,8 @@
 lab:
   title: 'Laboratório 2.1: Criar um segmento no Dynamics 365 Marketing'
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855068"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Módulo 2: Aprender os princípios básicos do Dynamics 365 Marketing
 ========================
 
@@ -25,28 +20,30 @@ Durante este exercício, você verá que é muito fácil criar segmentos de clie
 ## <a name="instructions"></a>Instruções
 
 
-1. Na navegação à esquerda, selecione **Segmentos** em Marketing.  
+1. Abra o aplicativo Dynamics 365 Marketing. 
 
-2. Na barra de comandos, selecione **Novo**.
+2. Por meio da navegação à esquerda, altere a Área para **Marketing de saída** e selecione **Segmentos** no grupo “Clientes”.
 
-3. No menu suspenso exibido, selecione **Novo Segmento Dinâmico (New Dynamic Segment)** .
+3. Na barra de comandos, selecione **Novo**.
 
-4. Na caixa de diálogo **Modelos de Segmento** que é aberta, selecione **Segmento de perfil básico** e clique no botão **Selecionar**
+4. No menu suspenso exibido, selecione **Novo Segmento Dinâmico (New Dynamic Segment)** .
 
-5. Selecione o texto duplicado **Selecionar atributo**.
+5. Na caixa de diálogo **Modelos de Segmento** que é aberta, selecione **Segmento de perfil básico** e clique no botão **Selecionar**
 
-6. Digite “cidade” para filtrar a lista e selecione o **Endereço 1: Cidade**.
+6. Selecione o texto duplicado **Selecionar atributo**.
 
-7. Deixe a lista suspensa definida como **Is**. 
+7. Digite “cidade” para filtrar a lista e selecione o **Endereço 1: Cidade**.
 
-8. Selecione a terceira lista suspensa, que contém **Inserir texto (Enter text)** e digite **Redmond**.
+8. Deixe a lista suspensa definida como **Is**. 
 
-9. Clique para selecionar o campo **Nome** em cima da consulta e insira **Contatos do Redmond**.
+9. Selecione a terceira lista suspensa, que contém **Inserir texto (Enter text)** e digite **Redmond**.
 
-10. Selecione **Salvar (Save)** na barra de comandos para salvar o segmento.
+10. Clique para selecionar o campo **Nome** na parte superior da consulta e digite **Redmond Contacts ─ Suas iniciais**.
 
-11. Selecione **Ativar (Go Live)** para publicar o segmento.
+11. Selecione **Salvar (Save)** na barra de comandos para salvar o segmento.
 
-12. Aguarde cerca de um minuto e selecione **Atualizar (Refresh)** na barra de comandos para atualizar a página. 
+12. Selecione **Ativar (Go Live)** para publicar o segmento.
 
-13. Você verá que a guia **Membros (Members)** foi adicionada. 
+13. Aguarde cerca de um minuto e selecione **Atualizar (Refresh)** na barra de comandos para atualizar a página. 
+
+14. Você verá que a guia **Membros (Members)** foi adicionada. 
