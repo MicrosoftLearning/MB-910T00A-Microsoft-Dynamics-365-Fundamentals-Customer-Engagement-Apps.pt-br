@@ -4,18 +4,18 @@ lab:
   module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
 ---
 
-<a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>Módulo 5: Aprender os princípios básicos do Dynamics 365 Field Service
+Módulo 5: Aprender os princípios básicos do Dynamics 365 Field Service
 ========================
 
-## <a name="practice-lab-52---schedule-items-in-dynamics-365-field-service"></a>Laboratório prático 5.2: Agendar itens no Dynamics 365 Field Service
+## Laboratório prático 5.2: Agendar itens no Dynamics 365 Field Service
 
-## <a name="lab-setup"></a>Configuração do Laboratório
+## Configuração do Laboratório
 
   - **Tempo estimado**: 20 minutos
 
   **Observação:** O painel de Requisitos de Reserva não pode ser aberto no Internet Explorer. Use o Microsoft Edge ou o Google Chrome para realizar este exercício.
   
-## <a name="instructions"></a>Instruções
+## Instruções
 
 1. Abra o aplicativo **Dynamics 365 Field Service**, se ele ainda não estiver aberto.
 
