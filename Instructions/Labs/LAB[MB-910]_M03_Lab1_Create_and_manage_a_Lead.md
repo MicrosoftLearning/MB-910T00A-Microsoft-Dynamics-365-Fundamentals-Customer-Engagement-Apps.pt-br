@@ -4,21 +4,21 @@ lab:
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
 ---
 
-<a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>Módulo 3: Aprender os princípios básicos do Dynamics 365 Sales
+Módulo 3: Aprender os princípios básicos do Dynamics 365 Sales
 ========================
 
-## <a name="practice-lab-31---create-and-manage-a-lead-in-dynamics-365-sales"></a>Laboratório prático 3.1 – Criar e gerenciar um cliente potencial no Dynamics 365 Sales
+## Laboratório prático 3.1 – Criar e gerenciar um cliente potencial no Dynamics 365 Sales
 
-## <a name="objectives"></a>Objetivos
+## Objetivos
 
 Neste exercício, registre um cliente potencial de Suzanne Burke. Ela entrou em contato com você recentemente e está interessada em alguns produtos e serviços da sua organização. Não apenas registre o cliente potencial no sistema como use as ferramentas disponíveis no Dynamics 365 for Sales para gerenciá-lo no processo de qualificação.
 
 
-## <a name="lab-setup"></a>Configuração do Laboratório
+## Configuração do Laboratório
 
   - **Tempo estimado**: 15 minutos
 
-## <a name="instructions"></a>Instruções
+## Instruções
 
 1. Se ainda não estiver aberto, abra o aplicativo **Hub de Vendas do Dynamics 365**. 
 
