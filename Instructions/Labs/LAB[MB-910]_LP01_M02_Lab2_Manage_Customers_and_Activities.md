@@ -2,7 +2,7 @@
 lab:
   title: 'Roteiro de aprendizagem 1 – Laboratório 1.2: Gerenciar clientes e atividades'
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
-  module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
+  module: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ---
 
 Roteiro de aprendizagem 2 – Módulo 2: Descrever atividades compartilhadas e opções de integração nos aplicativos de participação do cliente do Dynamics 365
@@ -30,11 +30,11 @@ Neste exercício, você trabalhará com os registros comuns utilizados por todos
 
 4. Preencha o registro da conta da seguinte forma:
 
-    - **Nome da Conta:** Contoso Corporate
+    - **Nome da conta:** Contoso Corporate (suas iniciais)
 
-    - **Telefone:** 888-555-1234
+    - **Telefone:** 888-555-1234 (suas iniciais)
 
-    - **Endereço 1 Rua 1:** 191 181<sup data-htmlnode="">st</sup> Ave N
+    - **Endereço 1 Rua 1:** 191 181<sup data-htmlnode="">st</sup> Ave N (suas iniciais)
 
     - **Endereço 1 Cidade:** Seattle
 
@@ -48,11 +48,11 @@ Neste exercício, você trabalhará com os registros comuns utilizados por todos
 
 7. Preencha o registro da conta da seguinte forma:
 
-    - **Nome da Conta:** Contoso North America
+    - **Nome da conta:** Contoso North America (suas iniciais)
 
-    - **Telefone:** 888-555-4321
+    - **Telefone:** 888-555-4321 (suas iniciais)
 
-    - **Endereço 1 – Rua 1**: 187 11<sup data-htmlnode="">th</sup> ST N
+    - **Endereço 1 Rua 1**: 187 11<sup data-htmlnode="">th</sup> ST N (suas iniciais)
 
     - **Endereço 1 Cidade:** Chicago
 
@@ -72,11 +72,11 @@ Neste exercício, você trabalhará com os registros comuns utilizados por todos
 
     - **Nome:** Jackson
 
-    - **Sobrenome:** Anderson
+    - **Sobrenome:** Anderson (suas iniciais)
 
     - **Cargo:** CEO
 
-    - **Email:** [Jackson@contososample.com](mailto:Jackson@contososample.com)
+    - **Email:** [Jackson (suas iniciais)@contososample.com](mailto:Jackson@contososample.com)
 
 13. Selecione o botão **Salvar e Fechar (Save and Close)** .
 
@@ -88,7 +88,7 @@ Neste exercício, você trabalhará com os registros comuns utilizados por todos
 
 17. Preencha o Compromisso assim:
 
-    - **Assunto:** Reunião com Jackson
+    - **Assunto:** reunião com Jackson (suas iniciais)
 
     - **Start Time:** Amanhã às 10h
 
