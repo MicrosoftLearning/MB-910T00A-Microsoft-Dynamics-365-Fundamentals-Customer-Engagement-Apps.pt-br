@@ -1,4 +1,4 @@
-# MB-910T00A: Aplicativos de participação do cliente de fundamentos do Microsoft Dynamics 365
+# MB-910T00A: Princípios básicos do Microsoft Dynamics 365 (CRM)
 
 - **[Faça o download do manual mais recente do aluno e do conteúdo AllFiles](https://learningdownloadcenter.microsoft.com/)**
 - **Você é um MCT?** Dê uma olhada no nosso [Guia de usuário do GitHub para MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)

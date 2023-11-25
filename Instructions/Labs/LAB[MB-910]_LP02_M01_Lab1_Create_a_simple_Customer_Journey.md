@@ -1,20 +1,20 @@
 ---
 lab:
   title: 'Roteiro de aprendizagem 2 – Laboratório 2.1: Criar uma jornada do cliente simples'
-  learning path: Explore the fundamentals of Dynamics 365 Marketing
-  module: Explore Dynamics 365 Marketing
+  learning path: Explore the fundamentals of Dynamics 365 Customer Insights
+  module: Explore Dynamics 365 Customer Insights
 ---
 
-Roteiro de aprendizagem 2 – Módulo 1: Explorar o Dynamics 365 Marketing
+Roteiro de aprendizagem 2 - Módulo 1: Explorar o Dynamics 365 Customer Insights
 ========================
 
 ## Roteiro de aprendizagem 2.1 – Criar uma jornada do cliente simples
 
-**IMPORTANTE**: os instrutores devem concluir todas as etapas de configuração definidas na seção do Dynamics 365 Marketing no guia de preparação do instrutor para garantir que os alunos possam concluir este laboratório corretamente.   
+**IMPORTANTE**: instrutores, verifiquem se vocês concluíram todas as etapas de configuração definidas na seção Dynamics 365 Customer Insights - Journeys do Guia de Preparação do Instrutor para garantir que os alunos possam concluir este laboratório corretamente.   
 
 ## Objetivos
 
-Durante este exercício, você verá que as Jornadas do cliente são um componente essencial no Dynamics 365 Marketing. Você criará as jornadas do cliente como base para qualquer esforço de marketing a fim de guiar o caminho que um cliente segue enquanto interage com o processo de marketing da organização. O objetivo de uma jornada, quando for concluída, é transformá-la em receita. 
+Durante esse exercício, você verá que as Jornadas do Cliente são um componente-chave no Dynamics 365 Customer Insights - Journeys. Você criará as jornadas do cliente como base para qualquer esforço de marketing a fim de guiar o caminho que um cliente segue enquanto interage com o processo de marketing da organização. O objetivo de uma jornada, quando for concluída, é transformá-la em receita. 
 
 ## Configuração do Laboratório
 

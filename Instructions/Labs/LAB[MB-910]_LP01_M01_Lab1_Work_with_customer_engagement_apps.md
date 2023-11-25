@@ -34,7 +34,7 @@ Neste exercício, você se familiarizará com o acesso e a navegação em difere
 
 5. Quando estiver trabalhando no ambiente correto, usando a navegação à esquerda, selecione **Aplicativos**. 
 
-6. Na lista de **Aplicativos**, abra o aplicativo **Hub de Vendas**. Quando você estiver dentro de um aplicativo, haverá áreas diferentes com as quais você pode trabalhar com base no que está tentando fazer.  Por exemplo, o aplicativo de Hub de vendas contém diferentes configurações administrativas com as quais você pode trabalhar.
+6. Na lista de **Aplicativos**, abra o aplicativo **Hub de Vendas**. Quando você estiver dentro de um aplicativo, haverá áreas diferentes com as quais você pode trabalhar com base no que está tentando fazer. Por exemplo, o aplicativo de Hub de vendas contém diferentes configurações administrativas com as quais você pode trabalhar.
 
 7. No canto inferior esquerdo da tela, na parte inferior do painel de navegação esquerdo ou **Mapa do site**, selecione o texto **Vendas**. Na lista que aparece, selecione **Configurações do aplicativo**. Em **Configurações do aplicativo**, é possível revisar e fazer alterações nas configurações administrativas. Observe como os itens de navegação à esquerda foram alterados.
 
@@ -56,7 +56,7 @@ Como alternativa, é possível acessar os aplicativos de negócios no portal do 
 
 4. Insira **Hub de Vendas (Sales Hub)** e selecione o aplicativo **Hub de Vendas (Sales Hub)** para abri-lo.
 
-5. Quando você estiver dentro de um aplicativo, haverá áreas diferentes com as quais você pode trabalhar com base no que está tentando fazer.  Por exemplo, o aplicativo de Hub de vendas contém diferentes configurações administrativas com as quais você pode trabalhar.
+5. Quando você estiver dentro de um aplicativo, haverá áreas diferentes com as quais você pode trabalhar com base no que está tentando fazer. Por exemplo, o aplicativo de Hub de vendas contém diferentes configurações administrativas com as quais você pode trabalhar.
 
 6. No canto inferior esquerdo da tela, selecione o texto **Vendas** e, na lista exibida, selecione **Configurações de aplicativos**. Esta parte do aplicativo é onde você pode fazer alterações administrativas nele.
 

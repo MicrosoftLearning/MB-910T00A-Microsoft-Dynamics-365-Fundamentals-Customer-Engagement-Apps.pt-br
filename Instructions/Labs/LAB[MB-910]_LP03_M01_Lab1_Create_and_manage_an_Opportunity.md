@@ -25,7 +25,7 @@ Durante o exercício, você criará manualmente uma venda potencial para Jane An
 
 2. Use a área de navegação à esquerda da tela e selecione **Clientes Potenciais**. 
 
-3. Na exibição **Minhas vendas potenciais abertas**, pressione o botão **Novo** para criar uma venda potencial. 
+3. Na exibição **Meus Clientes Potenciais Abertos**, selecione o botão **Novo** para criar um novo cliente potencial. 
 
 4. Preencha as informações da **Venda potencial** da seguinte maneira:
 
@@ -47,7 +47,7 @@ Durante o exercício, você criará manualmente uma venda potencial para Jane An
 
     - **Cidade:** Fargo
 
-    - **Estato/cidade:** ND
+    - **Estado/Província:** ND
 
     - **CEP (código postal):** 58102
 
@@ -55,9 +55,9 @@ Durante o exercício, você criará manualmente uma venda potencial para Jane An
 
 6. Preencha o seguinte:
 
-    - **Período de aquisição:** imediato
+    - **Período de Compra:** imediato
 
-    - **Orçamento estimado:** US$ 50.000 
+    - **Orçamento Estimado:** US$ 50.000 
 
     - **Processo de compra:** comissão
 
@@ -93,7 +93,7 @@ Durante o exercício, você criará manualmente uma venda potencial para Jane An
 
 18. É necessário selecionar **Coho Technologies** na janela de registro de busca. Pressione o botão **Adicionar** para finalizar a adição do concorrente.
 
-19. No fluxo do processo de negócios **Transformação de venda potencial em oportunidade**, selecione a fase **Desenvolvimento**. 
+19. No fluxo do processo empresarial **Do Cliente Potencial até a Oportunidade**, selecione o estágio **Desenvolver**. 
 
 20. Preencha o seguinte: 
 
