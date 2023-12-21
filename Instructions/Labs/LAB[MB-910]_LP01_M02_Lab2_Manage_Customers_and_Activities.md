@@ -26,7 +26,7 @@ Neste exercício, você trabalhará com os registros comuns utilizados por todos
 
 2. Usando a navegação do lado esquerdo da tela, selecione **Contas (Accounts)** .
 
-3. Na barra de comandos, pressione o botão **Novo**.
+3. Na barra de comandos, selecione o botão **Novo**.
 
 4. Preencha o registro da conta da seguinte forma:
 
@@ -38,13 +38,13 @@ Neste exercício, você trabalhará com os registros comuns utilizados por todos
 
     - **Endereço 1 Cidade:** Seattle
 
-    - **Endereço 1 Estado/Província:** WA
+    - **Estado/Província do Endereço 1:** WA
 
-    - **Endereço 1 CEP:** 98101
+    - **CEP do Endereço 1:** 98101
 
-5. Na barra de comandos, selecione o botão **Salvar e Fechar (Save and Close)** para salvar e sair do registro da conta.
+5. Na barra de Comandos, selecione o botão **Salvar e Fechar** para salvar e sair do registro da conta.
 
-6. Na barra de comandos, na lista de contas, pressione novamente o botão **Novo**.
+6. Na barra de comandos, na lista de contas, selecione novamente o botão **Novo**.
 
 7. Preencha o registro da conta da seguinte forma:
 
@@ -56,7 +56,7 @@ Neste exercício, você trabalhará com os registros comuns utilizados por todos
 
     - **Endereço 1 Cidade:** Chicago
 
-    - **Endereço 1 Estado/Província:** IL
+    - **Estado/Província do Endereço 1:** IL
 
     - **Endereço 1 CEP:** 60176
 
@@ -68,7 +68,7 @@ Neste exercício, você trabalhará com os registros comuns utilizados por todos
 
 11. Selecione as **Reticências verticais (Vertical Ellipsis)** e selecione **Novo Contato (New Contact)** no menu exibido.
 
-12. Usando o formulário **Criação rápida de contato**, preencha o contato da seguinte maneira:
+12. Usando o formulário **Contato de Criação Rápida**, preencha o contato da seguinte maneira:
 
     - **Nome:** Jackson
 
@@ -80,25 +80,25 @@ Neste exercício, você trabalhará com os registros comuns utilizados por todos
 
 13. Selecione o botão **Salvar e Fechar (Save and Close)** .
 
-14. Acima da subgrade Contatos, selecione o campo **Contato Principal (Primary contact)** e o defina para o contato **Jackson Anderson** que você criou.
+14. Logo acima da subgrade Contato, selecione o campo **Contato Principal** e defina-o como o contato **Jackson Anderson** recém-criado.
 
 15. Na **Linha do tempo de registro** localizada no meio da tela, selecione o **ícone de sinal de adição** para adicionar um item.
 
 16. No menu exibido, selecione **Reunião**.
 
-17. Preencha o Compromisso assim:
+17. Preencha o compromisso assim:
 
     - **Assunto:** reunião com Jackson (suas iniciais)
 
     - **Start Time:** Amanhã às 10h
 
-    - **Hora de término:** Amanhã às 11h
+    - **Hora de Término:** amanhã às 11:00
 
 18. Selecione o botão **Salvar e Fechar (Save and Close)** .
 
 19. **Salve e feche** a conta.
 
-20. Clique para selecionar o **Compromisso** e exibir os detalhes sobre ele.
+20. Clique para selecionar o **Compromisso** e exibir os detalhes dele.
 
 21. Clique no link **Abrir Compromisso (Open Appointment)** .
 

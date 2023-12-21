@@ -1,6 +1,6 @@
 ---
 lab:
-  title: 'Roteiro de aprendizagem 3 – Laboratório 3.1: Criar e gerenciar uma oportunidade no Dynamics 365 Sales'
+  title: 'Roteiro de aprendizagem 3 – Laboratório 3.1: criar e gerenciar uma oportunidade no Dynamics 365 Sales'
   learning path: Explore the fundamentals of Microsoft Dynamics 365 Sales
   module: Explore Dynamics 365 Sales
 ---
@@ -13,7 +13,7 @@ Roteiro de aprendizagem 3 – Módulo 1: Explorar o Dynamics 365 Sales
 
 ## Objetivos
 
-Durante o exercício, você criará manualmente uma venda potencial para Jane Anderson. Jane trabalha em uma empresa chamada/Jim trabalha em uma empresa chamada **ABC Consulting**. Você capturará as informações da venda potencial no sistema, utilizará as ferramentas disponíveis no Dynamics 365 Sales para qualificá-la como uma oportunidade e trabalhará até o fechamento da oportunidade.
+Durante o exercício, você criará manualmente uma venda potencial para Jane Anderson. Jane trabalha em uma empresa chamada/Jim trabalha em uma empresa chamada **ABC Consulting**. Você capturará as informações do cliente potencial no sistema, utilizará as ferramentas disponíveis no Dynamics 365 Sales para qualificá-lo como uma oportunidade e trabalhará até o fechamento da oportunidade.
 
 ## Configuração do Laboratório
 
