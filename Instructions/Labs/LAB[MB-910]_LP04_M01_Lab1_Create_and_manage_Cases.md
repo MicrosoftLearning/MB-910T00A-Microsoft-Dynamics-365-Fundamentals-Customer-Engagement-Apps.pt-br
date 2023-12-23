@@ -1,6 +1,6 @@
 ---
 lab:
-  title: 'Roteiro de aprendizagem 4 – Laboratório 4.1: Criar e gerenciar casos no Dynamics 365 Customer Service'
+  title: 'Roteiro de aprendizagem 4 – Laboratório 4.1: criar e gerenciar casos no Dynamics 365 Customer Service'
   learning path: Learn the fundamentals of Dynamics 365 Customer Service
   module: Explore Dynamics 365 Customer Service
 ---
