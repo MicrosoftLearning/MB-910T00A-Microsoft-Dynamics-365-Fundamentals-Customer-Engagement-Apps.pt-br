@@ -90,9 +90,9 @@ Neste exercício, você trabalhará com os registros comuns utilizados por todos
 
     - **Assunto:** reunião com Jackson (suas iniciais)
 
-    - **Start Time:** Amanhã às 10h
+    - **Hora de Início:** hoje às 16:00
 
-    - **Hora de Término:** amanhã às 11:00
+    - **Hora de Término:** hoje às 16:30
 
 18. Selecione o botão **Salvar e Fechar (Save and Close)** .
 
