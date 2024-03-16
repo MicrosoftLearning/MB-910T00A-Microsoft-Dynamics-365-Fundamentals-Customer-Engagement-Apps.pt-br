@@ -26,7 +26,7 @@ Roteiro de aprendizagem 4 – Módulo 1: Explorar o Dynamics 365 Customer Servic
 
     - **Título do caso:** o item chegou danificado (suas iniciais)
 
-    - **Cliente:** George Li
+    - **Cliente:** George Cao
 
 5.  Selecione o botão **Salvar** para salvar o registro e deixe-o aberto. 
 
@@ -44,7 +44,7 @@ Roteiro de aprendizagem 4 – Módulo 1: Explorar o Dynamics 365 Customer Servic
 
 12. Clique em **X** na janela de animação da fase **Pesquisa** para continuar trabalhando. 
 
-13. Na **Linha do tempo**, selecione o menu de reticências verticais **Ações principais** na atividade **Chamada telefônica** criada anteriormente. Selecione **Fechar atividade** para concluir a atividade. 
+13. Em **Linha do tempo**, selecione a atividade **Chamada telefônica** que você criou anteriormente. Selecione **Fechar atividade** para concluir a atividade. 
 
 14. Na tela **Encerrar chamada telefônica**, pressione o botão **Encerrar chamada telefônica**. 
 

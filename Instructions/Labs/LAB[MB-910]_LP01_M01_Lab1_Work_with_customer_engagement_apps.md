@@ -45,24 +45,23 @@ Neste exercício, você se familiarizará com o acesso e a navegação em difere
 10.  Quando o pop-up do seletor de **Aplicativos** aparecer, selecione **Hub de atendimento ao consumidor** e você será direcionado para o aplicativo **Hub de atendimento ao consumidor**. Observe que o **Hub de atendimento ao consumidor** tem diferentes áreas disponíveis no menu **Alterar área**.
 
 11. Para voltar ao aplicativo **Hub de vendas**, selecione o texto **Hub de atendimento ao consumidor** na parte superior, que abre o pop-up do seletor de **Aplicativos**. Selecione **Hub de vendas**.
-Como alternativa, é possível acessar os aplicativos de negócios no portal do Office. 
 
-12. Em um navegador da Web, acesse [https://www.office.com/apps](https://www.office.com/apps). Todos os aplicativos aos quais você tem acesso serão exibidos.
+Como alternativa, é possível acessar os Aplicativos de negócios no portal do Microsoft 365.
+
+12. Em um navegador da Web, acesse [https://www.microsoft365.com/apps](https://www.microsoft365.com/apps). Todos os aplicativos aos quais você tem acesso serão exibidos.
 
 13. Selecione a guia **Aplicativos de Negócios** para limitar os aplicativos que estão sendo exibidos a apenas os aplicativos de negócios do Dynamics 365.
 
-14. Para reduzir o número de aplicativos exibidos, clique no campo “Pesquisar” localizado na tela superior.
+14. Selecione o aplicativo **Hub de Vendas** para abri-lo.
 
-15. Insira **Hub de Vendas (Sales Hub)** e selecione o aplicativo **Hub de Vendas (Sales Hub)** para abri-lo.
+15. Quando você estiver dentro de um aplicativo, haverá áreas diferentes com as quais você pode trabalhar com base no que está tentando fazer. Por exemplo, o aplicativo de Hub de vendas contém diferentes configurações administrativas com as quais você pode trabalhar.
 
-16. Quando você estiver dentro de um aplicativo, haverá áreas diferentes com as quais você pode trabalhar com base no que está tentando fazer. Por exemplo, o aplicativo de Hub de vendas contém diferentes configurações administrativas com as quais você pode trabalhar.
+16. No canto inferior esquerdo da tela, selecione o texto **Vendas** e, na lista exibida, selecione **Configurações de aplicativos**. Esta parte do aplicativo é onde você pode fazer alterações administrativas nele.
 
-17. No canto inferior esquerdo da tela, selecione o texto **Vendas** e, na lista exibida, selecione **Configurações de aplicativos**. Esta parte do aplicativo é onde você pode fazer alterações administrativas nele.
+17. Use o seletor de Área novamente para sair de **Configurações do Aplicativo (App Settings)** e voltar a **Vendas (Sales)** .
 
-18. Use o seletor de Área novamente para sair de **Configurações do Aplicativo (App Settings)** e voltar a **Vendas (Sales)** .
+18. Se quiser alternar do aplicativo Vendas para um aplicativo diferente, como o hub do SAC, selecione **Hub de Vendas (Sales Hub)** na parte superior esquerda da tela, ao lado de Dynamics 365.
 
-19. Se quiser alternar do aplicativo Vendas para um aplicativo diferente, como o hub do SAC, selecione **Hub de Vendas (Sales Hub)** na parte superior esquerda da tela, ao lado de Dynamics 365.
+19. A tela Aplicativos será exibida; selecione **Hub do SAC** para abrir o aplicativo Hub do SAC.
 
-20. A tela Aplicativos será exibida; selecione **Hub do SAC** para abrir o aplicativo Hub do SAC.
-
-21. Selecione **Hub do SAC** na parte superior para voltar ao aplicativo **Hub de Vendas (Sales Hub)** .
+20. Selecione **Hub do SAC** na parte superior para voltar ao aplicativo **Hub de Vendas (Sales Hub)** .
