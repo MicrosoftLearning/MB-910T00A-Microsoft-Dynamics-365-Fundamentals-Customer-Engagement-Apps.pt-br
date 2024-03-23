@@ -2,10 +2,10 @@
 lab:
   title: 'Roteiro de aprendizagem 2 – Laboratório 2.1: criar uma jornada do cliente simples'
   learning path: Explore the fundamentals of Dynamics 365 Customer Insights
-  module: Explore Dynamics 365 Customer Insights
+  module: Explore Dynamics 365 Customer Insights - Journeys
 ---
 
-Roteiro de aprendizagem 2 - Módulo 1: Explorar o Dynamics 365 Customer Insights
+Roteiro de Aprendizagem 2 – Módulo 1: Explorar o Dynamics 365 Customer Insights – Percursos
 ========================
 
 ## Roteiro de aprendizagem 2.1 – Criar uma jornada do cliente simples
@@ -21,28 +21,32 @@ Durante esse exercício, você verá que os percursos do cliente são um compone
   - **Tempo estimado**: 10 minutos
 
 ## Instruções
-1. Na navegação esquerda, selecione **Jornadas do cliente** no grupo **Execução de marketing**.
+1. Usando a navegação à esquerda, selecione **Percursos** no grupo **Participação**.
 
-2. Usando a barra de comandos, selecione **+ Novo**.
+1. Usando a barra de comandos, selecione **+ Novo percurso**.
 
-3. No pop-up **Modelos de jornada do cliente**, selecione **Ignorar** para começar a criar uma jornada.
-4. Selecione **Definir público-alvo** (ou, como opção, selecione **+** ). Verifique se o **Tipo de fonte** está configurado como **Segmento** e selecione o segmento **Contatos da Fargo**. O primeiro bloco é preenchido com o nome do segmento, e o painel **Público-alvo (Audience)** exibe as propriedades do segmento.
+1. Selecione **Ignorar e criar em branco**
 
-5. Selecione **+** na tela e clique em **Enviar um email** no menu contextual.
+1. No item pop-up **Criar percurso com o Copilot**, selecione **Ignorar** **e criar em branco**.
 
-6. Na seção **Enviar email**, selecione **Mensagem de email de exemplo**.
+1. No campo Nome do percurso, insira a Jornada do cliente Fargo (suas iniciais) 
 
-7. Selecione a guia Geral (General) localizada acima do registro da jornada do cliente. Insira as seguintes informações na guia **Geral (General)** :
+1. Em Escolher o tipo de jornada, defina como baseada em segmento e selecione o segmento **Contatos do Fargo**. O primeiro bloco é preenchido com o nome do segmento, e o painel **Público-alvo (Audience)** exibe as propriedades do segmento.
 
-    - **Nome**: Jornada do cliente de Fargo (suas iniciais) 
+1. Em **Selecionar a frequência**, escolha **Um único percurso com audiência estática**.
 
-    - **Data e hora inicial (Start date and time)** : Insira a data de hoje
+1. Defina a **Data de início** como a **data de amanhã**.
 
-    - **Data e hora de término**: Um mês a partir de hoje
+1. Selecione o botão **Criar**.
 
-    - **Fuso horário**: Selecione o fuso horário local.
+1. Selecione o botão **Adicionar uma ação**.
 
-8. Na barra de comandos, selecione **Salvar (Save)** para salvar o trabalho realizado até agora.
+1. No menu exibido, selecione **Email**.
 
-9. Sua jornada está pronta. Para começar a jornada, você deve publicá-la selecionando **Ativar (Go live)** na barra de comandos.
+1. No painel Propriedades do email, à direita, configure da seguinte maneira:
 
+    - **Selecione o email:** Email 
+
+    - **Envie para:** Email
+
+1. Agora a jornada está pronta para uso. Para começar a jornada, você deve publicá-la selecionando **Ativar (Go live)** na barra de comandos.
